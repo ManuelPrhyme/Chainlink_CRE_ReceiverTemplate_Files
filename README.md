@@ -14,7 +14,7 @@ This repository contains all the essential files for implementing a **Chainlink 
   Custom interface dependency for receiver functionality.  
 
 - **Ownable**  
-  Ownership control contract (should be imported from the [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) repository).  
+  Ownership control contract (should be imported from the [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) repository in your Foundry project).  
 
 ## Purpose
 This template provides a structured starting point for building receiver contracts that integrate with Chainlink CRE.  
